@@ -83,7 +83,7 @@
 										</goals>
 									</pluginExecutionFilter>
 									<action>
-										<ignore />
+										<ignore/>
 									</action>
 								</pluginExecution>
 							</pluginExecutions>
@@ -396,7 +396,7 @@
 		<slf4j.version>1.7.5</slf4j.version>
 		<poi.version>3.9</poi.version>
 		<sonar.skippedModules>jfunk-samples</sonar.skippedModules>
-		<groovy.version>1.8.4</groovy.version>
+		<groovy.version>2.4.7</groovy.version>
 		<groovy-eclipse-compiler.version>2.7.0-01</groovy-eclipse-compiler.version>
 		<groovy-eclipse-batch.version>1.8.4-01</groovy-eclipse-batch.version>
 	</properties>
